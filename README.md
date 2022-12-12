@@ -3,7 +3,7 @@
 - I'm a full stack developer at the beginning of my career, with lots of love for code, learning, knowledge of any kind, and personal development.
 - Here on github you can see the abilities and professional qualities that I bring with me.
 - I specialize in building end-to-end web applications, in MERN Stack technologies, and like to look at things from an architectural and planning point of view. 
-- Beyond that, I like to work in a group, grow my head and excel in everything I do. I come with humility and listening to learn and develop from everyone.
+- Beyond that, I like to work in a group, to think big, and excel in everything I do. I come with humility and listening to learn and develop from everyone.
 - Looking for my next position as a full stack /frontend /backend developer.
 ## About My Journy 
 - I started my journey about a year ago, self-learning HTML, CSS and JS. 
